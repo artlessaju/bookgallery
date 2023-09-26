@@ -1,0 +1,156 @@
+*{
+
+margin: 0%;
+padding: 0%;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+
+header{
+
+background-color:rgb(16, 16, 16);
+width: 100%;
+height: 50px;
+
+}
+
+header h3{
+
+color: white;
+text-align: center;
+padding: 10px;
+
+
+}
+
+header h3:hover{
+
+color: black;
+
+
+}
+
+footer,p{
+
+    background-color:rgb(16, 16, 16);
+    width: 100%;
+    height: 30px;
+    text-align: center;
+    color: white;
+
+}
+
+footer,p:hover{
+
+color: maroon;
+
+}
+
+h4{
+
+color: white;
+text-align: center;
+
+}
+
+footer,h4:hover{
+
+color: maroon;
+
+}
+
+
+.banner{
+width: 100%;
+height: 400px;
+background-image: url(https://live.staticflickr.com/65535/53179463277_8c1ca4828d_4k.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+}
+
+.row{
+
+
+width: 100%;
+height: 600px;
+background-image: url(https://images2.alphacoders.com/125/1256748.png);
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+display: flex;
+align-items: center;
+justify-content: space-around;
+
+}
+
+.col1{
+
+width: 250px;
+height: 450px;
+background-color: rgb(139, 139, 213);
+margin-left: 10px;
+
+
+
+
+}
+
+h5{
+
+align-items: center;
+font-family: Georgia, 'Times New Roman', Times, serif;
+margin-left: 70px;
+margin-top: 20px;
+font-size: 150%;
+
+}
+
+h6{
+
+    align-items: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-left: 90px;
+    margin-top: 20px;
+
+
+
+}
+
+button{
+
+color: azure;
+background-color: red;
+padding: 10px;
+margin-left: 80px;
+margin-top: 20px;
+
+}
+
+button :hover{
+
+background-color: black;
+
+}
+
+.col2{
+
+    width: 250px;
+    height: 450px;
+    background-color: rgb(139, 139, 213);
+    font-size: smaller;
+    margin-right: 20px;
+}
+
+.col3{
+
+width: 250px;
+    height: 450px;
+    background-color: rgb(139, 139, 213);
+    font-size: smaller;
+    margin-right: 20px;
+
+
+
+}
